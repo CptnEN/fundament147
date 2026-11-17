@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fundament147.ru/sitemap.xml
+Sitemap: https://cptnen.github.io/fundament147/sitemap.xml

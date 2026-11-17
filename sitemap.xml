@@ -1,98 +1,69 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    <!-- Главная страница -->
-    <url>
-        <loc>https://fundament147.ru/</loc>
-    </url>
-
-    <!-- Страницы услуг -->
-    <url>
-        <loc>https://fundament147.ru/zhb-svai.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/vintovye-svai.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/lentochnye-fundamenty.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/lentochnye-na-svayah.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/monolitnaya-plita.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/monolitnaya-plita-na-svayah.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/visyachiy-rostverk.html</loc>
-    </url>
-
-    <!-- Юридические страницы -->
-    <url>
-        <loc>https://fundament147.ru/privacy.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/consent.html</loc>
-    </url>
-
-    <!-- Раздел полезных статей -->
-    <url>
-        <loc>https://fundament147.ru/articles.html</loc>
-    </url>
-
-    <!-- Статьи -->
-    <url>
-        <loc>https://fundament147.ru/articles/kak-vybrat-fundament.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/grunt-i-gruntovye-vody.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/zhb-svai-ili-vintovye.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/stoimost-fundamenta.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/oshibki-svaynogo-fundamenta.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/etapy-stroitelstva-svaynogo-fundamenta.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/svaynyy-rostverk.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/lentochnyy-fundament-dlya-doma.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/monolitnaya-plita-dlya-doma.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/proektirovanie-fundamenta.html</loc>
-    </url>
-
-    <url>
-        <loc>https://fundament147.ru/articles/probnoe-burenie-ili-geologiya.html</loc>
-    </url>
-
+  <url>
+    <loc>https://cptnen.github.io/fundament147/</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/zhb-svai.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/vintovye-svai.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/lentochnye-fundamenty.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/lentochnye-na-svayah.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/monolitnaya-plita.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/monolitnaya-plita-na-svayah.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/visyachiy-rostverk.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/consent.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/probnoe-burenie-ili-geologiya.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/kak-vybrat-fundament.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/grunt-i-gruntovye-vody.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/zhb-svai-ili-vintovye.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/stoimost-fundamenta.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/oshibki-svaynogo-fundamenta.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/etapy-stroitelstva-svaynogo-fundamenta.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/svaynyy-rostverk.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/lentochnyy-fundament-dlya-doma.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/monolitnaya-plita-dlya-doma.html</loc>
+  </url>
+  <url>
+    <loc>https://cptnen.github.io/fundament147/articles/proektirovanie-fundamenta.html</loc>
+  </url>
 </urlset>
